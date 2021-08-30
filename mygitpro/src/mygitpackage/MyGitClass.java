@@ -9,6 +9,7 @@ public class MyGitClass {
 	System.out.println("simdi basliyoruz");
 		
 	System.out.println("Burasi remote'dan...");
+	System.out.println("meraba Kadir");	
 	
 	
 	}
