@@ -7,6 +7,7 @@ public class MyGitClass {
 	System.out.println("Hello world");
 	System.out.println("Hello Earth");
 	System.out.println("simdi basliyoruz");
+		System.out.println("Burasi remote'dan...");
 	
 	
 	}
